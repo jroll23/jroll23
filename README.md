@@ -10,7 +10,7 @@ Developer specializing in **Python**, **FastAPI/Flask**, **SQL databases**, and 
 - Cloud-deployed applications (AWS & Azure free tier)
 
 ### Tech Stack
-- **Languages**: Python, Go (in progress)
+- **Languages**: Python, C++
 - **Frameworks**: FastAPI, Flask
 - **Databases**: PostgreSQL, MySQL, SQLAlchemy
 - **Cloud**: AWS, Azure
